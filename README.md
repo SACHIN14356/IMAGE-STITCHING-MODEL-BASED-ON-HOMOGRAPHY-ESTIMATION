@@ -34,5 +34,4 @@ This project aims to stitch multiple images into one continuous panoramic output
 
 ---
 
-## 📂 Folder Structure
 
